@@ -1,0 +1,3 @@
+[submodule "rn-starter"]
+	path = rn-starter
+	url = https://github.com/xterri/rn-starter.git
